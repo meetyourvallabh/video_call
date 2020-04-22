@@ -1,0 +1,27 @@
+{
+  "name": "video_call",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-static": "^0.7.10",
+    "socket.io": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meetyourvallabh/video_call.git"
+  },
+  "author": "vallabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meetyourvallabh/video_call/issues"
+  },
+  "homepage": "https://github.com/meetyourvallabh/video_call#readme",
+  "engines": {
+    "node": "13.5.0"
+  }
+}
